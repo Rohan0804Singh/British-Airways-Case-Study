@@ -1,2 +1,3 @@
-# British-Airways-Case-Study
-In this Case Study we explore data of various British Aircrafts.
+# Objective
+Analyze the dataset by going through the datasets. Highlight all the major KPIs in the dashboard.
+
